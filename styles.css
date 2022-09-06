@@ -1,1 +1,25 @@
-/* Copy and paste your CSS from CodePen into here */
+body {background-color: white;}
+    img{
+  max-width: 80%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;}
+    h1 { text-align: center;
+        font-family: monospace;
+        color: black;}
+    h2 {text-align: center;
+    font-family: monospace;
+    color: green}
+    figcaption {
+      font-family: sans-serif;
+      font-size: 10px;
+      text-align: center;
+    }
+    div {font-family: monospace;
+    text-align: left;
+    }
+    footer {font-family: monospace;}
+    .thin-green-border {border-color: green;
+    border-width: 2px;
+    border-style: solid;}
